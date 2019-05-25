@@ -12,7 +12,7 @@ namespace HelloWorld
         }
     }
 
-    class B
+    class BBBBBBB
     { }
 
     class CC
