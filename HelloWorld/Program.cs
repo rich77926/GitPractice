@@ -3,7 +3,7 @@
 namespace HelloWorld
 {
     class Program // Master
-    {
+    { //SSS
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
