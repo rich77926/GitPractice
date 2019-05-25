@@ -12,4 +12,7 @@ namespace HelloWorld
             // Feature
         }
     }
+
+    class A
+    { }
 }
