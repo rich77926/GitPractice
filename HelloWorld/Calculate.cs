@@ -11,4 +11,7 @@ namespace HelloWorld
             return x + y;
         }
     }
+
+    class B
+    { }
 }
