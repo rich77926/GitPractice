@@ -15,6 +15,6 @@ namespace HelloWorld
     class B
     { }
 
-    class C
+    class CC
     { }
 }
