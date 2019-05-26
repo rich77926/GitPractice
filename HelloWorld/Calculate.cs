@@ -8,7 +8,7 @@ namespace HelloWorld
     {
         public int Sum(int x, int y)
         {
-            return x + y; //ddd;
+            return x + y; //ddd
         }
     }
 
