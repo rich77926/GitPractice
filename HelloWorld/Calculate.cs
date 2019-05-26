@@ -8,13 +8,16 @@ namespace HelloWorld
     {
         public int Sum(int x, int y)
         {
-            return x + y; //ddd
+            return x + y;
         }
     }
 
-    class BBBBBBB
+    class B
     { }
 
-    class CC
+    class C
+    { }
+
+    class DEV
     { }
 }
